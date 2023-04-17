@@ -5,5 +5,17 @@ body{
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    font-size: 50px;
+
+}
+
+.Celsius-Editable {
+
+    font-size: 100px;
+}
+
+.Celsius {
+
+    font-size: 100px;
 
 }
