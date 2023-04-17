@@ -9,15 +9,34 @@ h1{
 
 }
 
-.celsius {
-    padding: 200px;
+#Input-Celsius {
+    height: 200px;
+    width: 700px;
+    background-color: #d2b52d;
+    font-size: 150px;
+    
+    
+}
+
+#Input-Fahrenheit {
+    height: 200px;
+    width: 700px;
+    background-color: #d2b52d;
+    font-size: 150px;
     
 }
 
 
+#Equals {
+    font-size:120px ;
+}
 
-.Celsius {
+#Celsius-Text {
 
     font-size: 100px;
 
+}
+
+#Fahrenheit-Text {
+    font-size: 100px;
 }
